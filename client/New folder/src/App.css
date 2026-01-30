@@ -1,0 +1,14 @@
+
+body{
+    background-color: #191F45;
+    padding: 0px;
+    margin: 0px;
+    margin-block-start:0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+background: #575553;
+}
+.App{
+    position: relative;
+}
